@@ -6,6 +6,7 @@ The Super Store Sales Dashboard is an interactive business intelligence dashboar
 The dashboard provides valuable insights through visual representations, enabling better business decision-making and performance tracking.
 
 Features 🚀
+
 📈 Sales Analysis by Category
 Office Supplies
 Furniture
@@ -82,6 +83,3 @@ Add real-time data connectivity.
 Include predictive analytics using Machine Learning.
 Add KPI cards and forecasting models.
 Improve UI/UX design for better interactivity.
-Conclusion ✅
-
-This Power BI dashboard demonstrates how business data can be transformed into meaningful insights using data visualization techniques. It helps organizations monitor sales performance, customer trends, and profitability effectively.
